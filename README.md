@@ -3,7 +3,10 @@ __________________________________________________
 
 ### Tools:
 <img src="https://camo.githubusercontent.com/843045709ac42b1dc5098443b2c95c78206d6eeda2ef8e1e0630756b061f6b8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54657874253230456469746f722d56697375616c25323053747564696f253230436f64652d626c75653f266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d626c7565">
-<img align="left" alt="aljagne's Github Stats" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Fbrowser_14575&psig=AOvVaw2rtc0kB7LPMDfErJmyUhy5&ust=1607194084899000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCgydf-tO0CFQAAAAAdAAAAABAD" />
+
+
+### Deploying Website 
+<img align="left" alt="webiizwall" src="https://zwebsite.web.app" />
 <!--
 **ayuputrii/ayuputrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
