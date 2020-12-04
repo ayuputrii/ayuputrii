@@ -1,6 +1,6 @@
 ### Hi Everyone! 👋
 
-<img src=”file:///C:/Users/ASUS/Downloads/WhatsApp%20Image%202020-12-04%20at%2018.46.22.jpeg”>
+### My Linkdin 💬 <link src="https://www.linkedin.com/mynetwork/">
 
 <!--
 **ayuputrii/ayuputrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
