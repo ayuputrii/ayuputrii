@@ -6,7 +6,8 @@ __________________________________________________
 
 
 ### Deploying Website 
-<img align="left" alt="webiizwall" src="https://zwebsite.web.app" />
+[https://zwebsite.web.app/](https://zwebsite.web.app)
+
 <!--
 **ayuputrii/ayuputrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
